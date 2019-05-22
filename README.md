@@ -4,10 +4,12 @@ Demonstrativo da conversão de bases que o sistema faz para executar um simples 
 Base 10 p/ 16.
 
 # Analisando:
+
 $whereis ping 
+
 fazer um filtro no PATH com strings
 
-# Ex: strings /bin/$PATH | grep scanf
+Ex: strings /bin/$PATH | grep scanf
 
 
 # Vídeo Demo:
